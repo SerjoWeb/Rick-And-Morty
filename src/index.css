@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@media only screen and (max-width: 750px) {
+  .media-filters {
+    display: block;
+  }
+  .media-filters .media-filter {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 20px;
+  }
+  .media-filters .media-filter:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .media-details {
+    display: block;
+  }
+  .media-details .media-details-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+  }
+  .media-details-info {
+    width: 100%;
+    text-align: center;
+  }
+}
