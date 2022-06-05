@@ -1,6 +1,8 @@
 # Rick and Morty
 ## List of characters
 
+LINK: http://serjo-web.great-site.net/
+
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 - Vite 
