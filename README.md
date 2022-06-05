@@ -1,10 +1,7 @@
-# React - TypeScript - Zustand - ESLint Base Template
-## ViteJS, ReactJS, TypeScript, Zustand, TailwindCSS, ESLint
+# Rick and Morty
+## List of characters
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
-Learning techs: ViteJS, ReactJS, TypeScript, Zustand as a state manager
-Table including sort and pagination functionality
 
 - Vite 
 - ReactJS
@@ -26,4 +23,4 @@ Under development, free license.
 
 | Folder/File | Description |
 | ------ | ------ |
-| react-typescript-eslint-template | React JS (Typescript) app - base template |
+| Rick-And-Morty | React JS (Typescript) app |
